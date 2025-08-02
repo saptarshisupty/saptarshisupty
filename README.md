@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sourav Saha</h1>
-<h3 align="center">Aspiring Web Developer | Tech Enthusiast | Creative Writer</h3>
+<h1 align="center">Hi 👋, I'm Saptarshi Sutpy</h1>
+<h3 align="center">CS Undergrad | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=450&lines=Computer+Science+Student;Content+Creator+%7C+Tech+Blogger;Campus+Ambassador+at+Creative+IT+Institute;Always+Learning+Something+New" alt="Typing SVG" />
@@ -8,12 +8,9 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🎓 Final Year **CSE Student** at United International University (UIU).
-- 🏆 **Best Performer Awardee** in Member Recruitment (UIU EDF, Summer 2024).
-- 🎓 Academic Scholarship Holder (**25% Tuition Waiver**, Fall 2024).
-- 🌱 Currently learning **Web Development, Java & Cloud Technologies**.
-- ✍️ Passionate about **Tech Blogging & Content Writing**.
-- 🎯 Aiming for **IELTS 8 Band Score**.
+- 🎓 **CSE Student** at United International University (UIU).
+- 🎓 Academic Scholarship/Waiver Holder
+- 🌱 Currently learning **Data Structure Algorithms**.
 - 🚀 Open to **Internships & Entry-Level Opportunities** in Tech.
 
 ---
@@ -30,28 +27,21 @@
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saptarshisupty)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/saptarshisupty)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saptarshisupty28@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravsaha&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravsaha&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravsaha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saptarshisupty&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshisupty&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshisupty&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📝 Recent Articles:
-- 🔗 [What is a VPN? How Does it Work? Everything You Should Know](#)
-- 🔗 [Starlink Explained: Revolutionizing Internet for Remote Areas](#)
-- 🔗 [The Rise of Satellite Internet in Bangladesh: Starlink’s Impact](#)
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=souravsaha&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saptarshisupty&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
