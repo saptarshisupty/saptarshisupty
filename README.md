@@ -8,10 +8,10 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🎓 **CSE Student** at United International University (UIU).
+- 🎓 **CSE Student** at United International University
 - 🎓 Academic Scholarship/Waiver Holder
-- 🌱 Currently learning **Data Structure Algorithms**.
-- 🚀 Open to **Internships & Entry-Level Opportunities** in Tech.
+- 🌱 Currently learning **Data Structure Algorithms**
+- 🚀 Open to **Internships & Entry-Level Opportunities** in Tech
 
 ---
 
