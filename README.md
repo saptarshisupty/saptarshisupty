@@ -2,7 +2,7 @@
 <h3 align="center">CS Undergrad | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=450&lines=Computer+Science+Student;Content+Creator+%7C+Tech+Blogger;Campus+Ambassador+at+Creative+IT+Institute;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=450&lines=Computer+Science+Student;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
